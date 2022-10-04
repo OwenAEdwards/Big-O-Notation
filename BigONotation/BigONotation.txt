@@ -1,0 +1,21 @@
+***SOURCES***
+
+Helped me first with applying some of the algorithms:
+https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/
+
+Other useful examples of basic algorithms abiding by the Big-O Notation:
+https://qr.ae/pveIzK
+
+Original implementation of execution time speed, didn't account for microsecond place values:
+https://www.geeksforgeeks.org/how-to-measure-time-taken-by-a-program-in-c/
+
+Improved implementation of execution time speed (the one I ended up using):
+https://stackoverflow.com/questions/10192903/time-in-milliseconds-in-c
+
+Most useful Big-O Notation cheat sheet!:
+https://www.bigocheatsheet.com/
+
+Some other examples of Big-O Notation in algorithm design:
+https://stackoverflow.com/questions/1592649/examples-of-algorithms-which-has-o1-on-log-n-and-olog-n-complexities
+
+***SOURCES***
