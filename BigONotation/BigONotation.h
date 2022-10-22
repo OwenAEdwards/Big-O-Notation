@@ -42,7 +42,7 @@ double logarithmic(int N) {
     // getchar();
     c=1;
     gettimeofday(&start,NULL);
-    for (int i=1;i<=log(N);i++) {
+    for (int i=1;i<=log2(N);i++) {
         printf("%d\n",c);
         c++;
     }
@@ -81,7 +81,7 @@ double loglinear(int N) {
     // getchar();
     c=1;
     gettimeofday(&start,NULL);
-    for (int i=1;i<=(N*log(N));i++) {
+    for (int i=1;i<=(N*log2(N));i++) {
         printf("%d\n",c);
         c++;
     }
